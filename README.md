@@ -72,8 +72,7 @@ Thank you for your attention!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohmed-Ayoub-Js&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmed-Ayoub-Js&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#SOCIAL : 
+# SOCIAL : 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 ![Discord](https://img.shields.io/badge/%3Cabo_aisha%3E-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)
 ![Instagram](https://img.shields.io/badge/<mohammed_ayoub_js>-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)
